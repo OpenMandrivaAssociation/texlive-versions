@@ -6,7 +6,7 @@
 # catalog-version 0.55
 Name:		texlive-versions
 Version:	0.55
-Release:	5
+Release:	6
 Summary:	Optionally omit pieces of text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/versions
