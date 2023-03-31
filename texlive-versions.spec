@@ -1,6 +1,6 @@
 Name:		texlive-versions
 Version:	21921
-Release:	1
+Release:	2
 Summary:	Optionally omit pieces of text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/versions
