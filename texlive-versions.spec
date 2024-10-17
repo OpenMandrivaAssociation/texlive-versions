@@ -3,7 +3,7 @@ Version:	21921
 Release:	2
 Summary:	Optionally omit pieces of text
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/versions
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/versions
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/versions.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/versions.doc.r%{version}.tar.xz
